@@ -38,19 +38,19 @@
   <div class="col-lg-4  col3">
      <h4>Here we are.On<span class="tcr"> FLICKR</span></h4>
    <div class="row">
-   <div class="col-lg-4"><img src="images/footer-1.jpg" alt="" /></div>
-   <div class="col-lg-4"><img src="images/footer-4.jpg" alt="" /></div>
-   <div class="col-lg-4"><img src="images/footer-9.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-1.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-4.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-9.jpg" alt="" /></div>
    </div>
    <div class="row">
-   <div class="col-lg-4"><img src="images/footer-2.jpg" alt="" /></div>
-   <div class="col-lg-4"><img src="images/footer-5.jpg" alt="" /></div>
-   <div class="col-lg-4"><img src="images/footer-8.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-2.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-5.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-8.jpg" alt="" /></div>
    </div>
    <div class="row">
-   <div class="col-lg-4"><img src="images/footer-3.jpg" alt="" /></div>
-   <div class="col-lg-4"><img src="images/footer-6.jpg" alt="" /></div>
-   <div class="col-lg-4"><img src="images/footer-7.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-3.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-6.jpg" alt="" /></div>
+   <div class="col-lg-4"><img src="<?php echo get_template_directory_uri(); ?>/images/footer-7.jpg" alt="" /></div>
    </div>
   </div>
 </div>
