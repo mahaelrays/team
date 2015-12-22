@@ -2,8 +2,8 @@
 get_header();
 ?>
 <body>
+<body>
 <!-- category slider -->
-
 <div id="soka-gallery" class="carousel slide  col-lg-12 clear-affix" data-ride="carousel">
   <div class="carousel-inner  carusal_slide" role="listbox">
     <div class="item img_gallery active">
