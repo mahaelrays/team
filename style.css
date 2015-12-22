@@ -79,17 +79,12 @@
 
 }
 
- .carusal-slide .img-gallery
- {
-	
-	
-	 
-}
  .carusal-slide .img-gallery  .alter-image
 {
 text-align:justify;
 background-color:#ff8067;
 height:280px;
+padding: 20;
 
 }
  .carusal-slide .img-gallery  .alter-image  h3
