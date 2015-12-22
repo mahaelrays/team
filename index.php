@@ -27,7 +27,7 @@
 <div id="soka-gallery1" class="carousel slide  clear-affix   carousel-1" data-ride="carousel">
   <div class="carousel-inner  carusalslide" role="listbox">
     <div class="item imggallery active">
-      <img class="img" src="images/panner.jpg" alt="...">  	   
+      <img class="img" src="<?php echo get_template_directory_uri(); ?>/images/panner.jpg" alt="...">  	   
     </div>
     <div class="item  imggallery">
       <img class="img" src="images/slider-2.jpg" alt="...">
@@ -50,16 +50,16 @@
 	<h3>While not always necessary, sometimes you need to put your DOM in a box. For those situations, try the panel component.</h3></div>
     </div>
   </div> 
-    <a href="" class="cart"><img class="btn btn-succes"  src="images/cart.png" alt="..."></a>
+    <a href="" class="cart"><img class="btn btn-succes"  src="<?php echo get_template_directory_uri(); ?>/images/cart.png" alt="..."></a>
 	<div class="subject"><h4 >fdsfdsg dsfdsf sdfdsf</h4></div> 
 	<div class="price-offer"><h3 >Price</h3></div> 
   <div class="arrows">
    <a class="lefting" href=".carousel"  role="button" data-slide="prev">
-       <img  class="img img-circle" src="images/arrow_left.jpg" alt="" />
+       <img  class="img img-circle" src="<?php echo get_template_directory_uri(); ?>/images/arrow_left.jpg" alt="" />
     <span class="sr-only">Previous</span>
   </a>
    <a class="righting" href=".carousel"   role="button" data-slide="next">
-    <img  class="img img-circle"src="images/arrow_right.jpg" alt="" />
+    <img  class="img img-circle"src="<?php echo get_template_directory_uri(); ?>/images/arrow_right.jpg" alt="" />
     <span class="sr-only">Next</span>
   </a>
   </div>
