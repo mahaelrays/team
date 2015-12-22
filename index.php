@@ -23,11 +23,11 @@ get_header();
   <!-- Wrapper for slides -->
   <div class="carousel-inner  carusal-slide" role="listbox">
     <div class="item img-gallery active">
-    <div class="alter-image well" >
+    <div class="alter-image" >
 	<h3>While not always necessary, sometimes you need .</h3></br><h3> For those situations, try the panel component.</h3></div>
     </div>
     <div class="item  img-gallery">
-	 <div class="alter-image well" >
+	 <div class="alter-image" >
 	<h3>While not always necessary, sometimes you need to put your DOM in a box. For those situations, try the panel component.</h3></div>
     </div>
   </div> 
