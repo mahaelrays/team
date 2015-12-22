@@ -1,27 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
-    <title>Task</title> 
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href=css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="css/validationEngine.jquery.css" type="text/css"/>
-	<link rel="stylesheet" href="css/template.css" type="text/css"/>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/jquery-ui.css" rel="stylesheet">
-	<link href="style.css" rel="stylesheet"> 
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">	
-  </head>
-  <body>
-
-
-
-
- 
-  <!--2 inner slider -->
+<?php
+get_header();
+?>
+<body>
+<!--2 inner slider -->
  <div class="row">
 <div class="col-lg-6">
 <div id="soka-gallery1" class="carousel slide  clear-affix   carousel-1" data-ride="carousel">
@@ -66,17 +47,6 @@
   </div> 
 </div>
  </div>
-
-   
-
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/jquery-1.11.3.min.js"></script> 
-	    <script src="js/jquery-1.8.2.min.js" type="text/javascript"></script>
-		<script src="js/main.js"></script>
-		<script src="js/bootstrap.js"></script> 
-		<script src="js/jquery-ui.js" ></script>
-		<script src="js/languages/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
-	    <script src="js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
-  </body>
-</html>
+<?php
+get_footer();
+?>
