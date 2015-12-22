@@ -11,7 +11,7 @@ get_header();
       <img class="img" src="<?php echo get_template_directory_uri(); ?>/images/panner.jpg" alt="...">  	   
     </div>
     <div class="item  imggallery">
-      <img class="img" src="images/slider-2.jpg" alt="...">
+      <img class="img" src="<?php echo get_template_directory_uri(); ?>/images/slider-2.jpg" alt="...">
     </div>
   </div> 
   </div>
