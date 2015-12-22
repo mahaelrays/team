@@ -57,19 +57,19 @@
 	     <h2>DONT LET FASHION GO TO WASTE</h2>
 		 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		 <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		 <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More</a></div>
 	  </div>
 	  <div class="col-lg-4 col-md-8 col-sm-10 col-xs-12  offer_item">
 	  <h2>DONT LET FASHION GO TO WASTE</h2>
 	 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">View Collection</a></div>
 	  </div>
 	  <div class="col-lg-4 col-md-8 col-sm-10 col-xs-12  offer_item">
 	  <h2>DONT LET FASHION GO TO WASTE</h2>
 	 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">View Collection</a></div>
 	  </div>
     </div>
 	    <div class="row">
@@ -77,19 +77,19 @@
 	     <h2>DONT LET FASHION GO TO WASTE</h2>
 		 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div id="read_more" class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div id="read_more" class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More</a></div>
 	  </div>
 	  <div class="col-lg-4 col-md-6 col-sm-8 col-xs-12 offer_item">
 	  <h2>DONT LET FASHION GO TO WASTE</h2>
 	 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">View Collection</a></div>
 	  </div>
 	  <div class="col-lg-4 col-md-6 col-sm-8 col-xs-12  offer_item">
 	  <h2>DONT LET FASHION GO TO WASTE</h2>
 	 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">View Collection</a></div>
 	  </div>
     </div>
 	    <div class="row">
@@ -97,19 +97,19 @@
 	     <h2>DONT LET FASHION GO TO WASTE</h2>
 		 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More</a></div>
 	  </div>
 	  <div class="col-lg-4 col-md-6 col-sm-8 col-xs-12 offer_item">
 	  <h2>DONT LET FASHION GO TO WASTE</h2>
 	 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a></div>
+		  <div class="meta-data"><span class="glyphicon glyphicon-play"></span><a href="#">View Collection</a></div>
 	  </div>
 	  <div class="col-lg-4 col-md-6 col-sm-8 col-xs-12 offer_item">
 	  <h2>DONT LET FASHION GO TO WASTE</h2>
 	 <img src="images/offer1.jpg" alt="summer offers from factoria" />
 		 <h4>soka</h4>
-		 <div class="meta-data"> <span class="glyphicon glyphicon-play"></span><a href="#">Read More...</a> </div>
+		 <div class="meta-data"> <span class="glyphicon glyphicon-play"></span><a href="#">View Collection</a> </div>
 	  </div>
     </div>
    </div>
