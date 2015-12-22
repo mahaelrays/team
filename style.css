@@ -1,4 +1,4 @@
-
+/*sameh style*/
 #soka-gallery
 {
 	margin:0;
@@ -426,3 +426,83 @@ padding-left:150px;
 	padding-left:5px;
 }
 
+/*aya style*/
+.soka {
+    color:white;
+    text-align:right;
+    padding:25px;
+    font-family:Times New Roman (Headings CS);
+    font-size: 50px;
+    border-right: 1px solid white;
+    height:110px;
+    background-color:#ff8067;
+}
+
+.colornavul{
+	background-color:#ff8067;
+	color:white;
+	height: 120px;
+	padding-top: 37px;
+	margin:-1px;
+	font-size: 20px; 
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-family:Vodafone ExB; 
+}
+
+#p1{
+	text-align: right;
+	color: black;
+    margin: 13px 70px ;
+    left: 50px;
+}
+
+li span {
+	margin: 5px;
+}
+
+li span i{
+	color:#ff8067;
+	background-color:white;
+    border-radius:50px 50px;
+}
+
+#footer {
+    background-color:#ff8067;
+    color:white;
+    clear:both;
+    padding:40px; 
+    margin:-1px; 
+}
+
+hr{
+    border: 1px solid #ff8067;
+}
+
+.row {
+    margin: 25px;
+}
+
+h4 {
+    font-size: 17px;
+    font-family:Arial Black; 
+}
+.tcr{
+    color: red;
+    font-family:Arial Black; 
+
+}
+
+.fdiv{
+   text-align: left; 
+   left: 105px;
+}
+
+.fdiv1{
+   text-align: right; 
+   right: 100
+}
