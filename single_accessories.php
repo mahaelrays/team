@@ -12,39 +12,22 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
     <!-- Bootstrap -->
-    <link href="<?php echo get_template_directory_uri();?>/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri();?>">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
- <![endif]-->
-
-
- <script type="text/javascript">
-       
-       function changeColor(){
-               
-               var xBox=document.getElementById("box");
-
-                xBox.style.backgroundColor=document.getElementById("vColor").value; 
-
-
-
-           }
-
-
-
-    </script>
+    <![endif]-->
   </head>
   <body>
 
   <div class="content">
     <div class="row ">
          <div class="col-md-1"> </div>
-         <div class="col-md-1 " id="mg"> <img src="<?php echo get_template_directory_uri();?>/images/dreambox.jpg" class="img-thumbnail "></div>
+         <div class="col-md-1 " id="mg"><img src="<?php echo get_template_directory_uri();?>/images/dreambox.jpg" class="img-thumbnail "></div>
          
           <div class="col-md-1">
 
@@ -55,10 +38,10 @@
             <div class="mg2"><img src="<?php echo get_template_directory_uri();?>/images/imagesk.jpg" width="65" class="img-thumbnail "></div><br>
           
             
-            <img src="<?php echo get_template_directory_uri();?>/images/389793.jpg"  class="img-thumbnail"><br>
+            <img src="<?php echo get_template_directory_uri();?>/images/389793.jpg" width="65" class="img-thumbnail"><br>
                        
-            <img src="<?php echo get_template_directory_uri();?>/images/imagesnn.jpg"  class="img-thumbnail"><br>
-            <img src="<?php echo get_template_directory_uri();?>/images/c4.jpg" class="img-thumbnail">
+            <img src="<?php echo get_template_directory_uri();?>/images/imagesnn.jpg" width="65" class="img-thumbnail"><br>
+            <img src="<?php echo get_template_directory_uri();?>/images/c4.jpg" width="65" class="img-thumbnail">
               
               </div>
 
@@ -96,10 +79,10 @@
             
             <thead>
               <tr rowspan="2"  >
-                <th bgcolor="#E8E8E8"  ><a href=""http://localhost/shop/""><font color="#ff8067" size="4"> <div class="text-center"> More info</div></font></a></th>
+                <th bgcolor="#E8E8E8"  ><a href ="#"><font color="#ff8067" size="4"> <div class="text-center"> More info</div></font></a></th>
                 <th ><a href="#"><div class="text-center " id="data"> Data Sheet </div> </a></th>
                 <th  ><a href="#"><div class="text-center"  id="data"> Accessories</div></a> </th>
-                <th  ><a href="#"><div class="text-center" id="data" > Comments</div></a> </th>
+                <th  ><a href="3"><div class="text-center" id="data" > Comments</div> </a></th>
                 <th  ><div class="text-center"  > </div> </th>
                
               </tr>
@@ -140,10 +123,8 @@
 
 
           <label>  Color : </label>
-          <button id="box" style="width:15px;height:15px;background-color:red;margin-left:2px;">  </button>
            <select >
              <option value="Red" >Red</option>
-              <option value="Green" >Green</option>
             <option value="Blue">Blue</option>
             <option value="Gray">Gray</option>
             <option value="Yellow">Yellow</option>
@@ -182,35 +163,20 @@
          <h3>Related Products</h3>
          
          
-         <hr>
+         <hr style="margin-left: 80px; width: 1300px;">
    
         <div class="row" id="moredress">
          <!--<div class="horizontal-line" ></div>-->
           <div class ="col-md-3">
-               <a target="_blank" href="#"><!--<?php if (has_post_thumbnail()){?>
-
-                  <div class="post-thumbnail">
-                     <?php the_post_thumbnail();?>
-
-                   </div>
-                <?php }?>
-
-                <?php if ('post'==get_post_type()):?>
-
-                   <div class="entry-meta">
-                      <?php my_theme_posted_on();?>
-                     </div><!--entry data-->
-                     
-                <!--    <?php endif;?> -->       
-                
-              <img src="<?php echo get_template_directory_uri();?>/images/4edf6c70c6be19d.jpg"  class="img-thumbnail ">
+               <a target="_blank" href="#">
+              <img src="<?php echo get_template_directory_uri();?>/images/310.jpg"  class="img-thumbnail ">
               </a>
-              <div class="desc"><p>Dar Awesome blouse for your awesome body</p></div>
+              <div class="desc"><p>Dar Awesome rings  for your awesome fingers</p></div>
               <span class="glyphicon glyphicon-star" style="margin-left:100px;"></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
-              <span class="glyphicon glyphicon-star" ><label style="margin-left:115px;font-size:18px;">$250</label></span>
+              <span class="glyphicon glyphicon-star" ><label style="margin-left:80px;font-size:18px;">$750</label></span>
 
           </div>
 
@@ -218,44 +184,41 @@
           
             
           <div class ="col-md-3">
-           
-
-          
              <a target="_blank" href="#">
-             <img src="<?php echo get_template_directory_uri();?>/images/img_137.jpg"  class="img-thumbnail ">
+             <img src="<?php echo get_template_directory_uri();?>/images/images-cambnat-3555.jpg"  class="img-thumbnail ">
              </a>
-             <div class="desc"><p> Awesome Black dress for nice and  awesome ladies</p></div>
+             <div class="desc"><p> Awesome accesoriess for nice and  awesome ladies</p></div>
              <span class="glyphicon glyphicon-star" style="margin-left:100px;"></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
-              <span class="glyphicon glyphicon-star" ><label style="margin-left:115px;font-size:18px;">$180</label></span>
+              <span class="glyphicon glyphicon-star" ><label style="margin-left:80px;font-size:18px;">$280</label></span>
           </div>
           
             
           <div class ="col-md-3">
              <a target="_blank" href="#">
-             <img  src="<?php echo get_template_directory_uri();?>/images/img_1372.jpg"  class="img-thumbnail ">
+             <img  src="<?php echo get_template_directory_uri();?>/images/107668alsh3er.jpg"  class="img-thumbnail ">
              </a>
-             <div class="desc"><p> Awesome  Brown dress for nice and  awesome ladies</p></div>
+             <div class="desc"><p> Awesome  rings for nice and  awesome ladies</p></div>
              <span class="glyphicon glyphicon-star" style="margin-left:100px;"></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
-              <span class="glyphicon glyphicon-star" ><label style="margin-left:115px;font-size:18px;">$320</label></span>
+              <span class="glyphicon glyphicon-star" ><label style="margin-left:80px;font-size:18px;">$320</label></span>
           </div>
           
             
             <div class ="col-md-3">
                <a target="_blank" href="#">
-               <img src="<?php echo get_template_directory_uri();?>/images/821390.jpg"  class="img-thumbnail ">
+               <img src="<?php echo get_template_directory_uri();?>/images/images-cambnat-3603.jpg"  class="img-thumbnail ">
                </a>
-               <div class="desc"><p> Awesome Pink vest for nice and  awesome ladies</p></div>
+               <div class="desc"><p> Awesome accessories for nice and  awesome ladies</p></div>
                <span class="glyphicon glyphicon-star" style="margin-left:100px;"></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
               <span class="glyphicon glyphicon-star" ></span>
-              <span class="glyphicon glyphicon-star" ><label style="margin-left:115px;font-size:18px;">$270</label></span>
+              <span class="glyphicon glyphicon-star" ><label style="margin-left:80px;font-size:18px;">$470</label></span>
             </div>
           
             </div>
@@ -267,7 +230,7 @@
 
 
          
-        
+         </div>
 
          
 
