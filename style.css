@@ -649,3 +649,12 @@ hr {
  display:inline;
  color: #ff8067;
 }
+
+hr .single {
+        height: 490px;
+        width: 1px;
+        background-color: gray;
+        margin-top: 25px;
+        position: absolute;
+        border-radius: 2px;
+    }
