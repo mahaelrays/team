@@ -89,7 +89,6 @@ padding: 20;
 }
  .carusal-slide .img-gallery  .alter-image  h3
 {
-	
 	margin:0;
 	color:white;
 	text-align:left;
@@ -361,12 +360,12 @@ padding:0;
 .col2   .fa1
 {
 	color:#ff8067;
-font-size:25px;
+    font-size:25px;
 	height:15px;
 	background-color:#EAEAEA;
 	position:absolute;
 	left:-12px;
-	top:45px;
+	top:80px;
 	
 }
 .col2   .fa2
@@ -377,7 +376,7 @@ font-size:25px;
 	background-color:#EAEAEA;
 	position:absolute;
 	left:-12px;
-	bottom:110px;
+	bottom:77px;
 	
 	
 }
@@ -499,7 +498,7 @@ h4 {
 
 .fdiv1{
    text-align: right; 
-   right: 100
+   right: 92px;
 }
 
 /*sara style*/
@@ -607,10 +606,10 @@ label{
 	height: 35px;
 }
 
-h3{
+/*h3{
 margin-left: 100px;
 }
-
+*/
 .horizontal-line{
 	width: 1000px;
     height: 1px;
@@ -652,9 +651,16 @@ hr {
 
 hr .single {
         height: 490px;
-        width: 1px;
         background-color: gray;
         margin-top: 25px;
-        position: absolute;
         border-radius: 2px;
+        width: 15px;
     }
+
+.breadcrumb {
+	background-color: black;
+	color: white;
+	margin: -1px;
+	width: 100%;
+	font-size: 15px;
+}
