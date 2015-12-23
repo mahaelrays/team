@@ -501,3 +501,151 @@ h4 {
    text-align: right; 
    right: 100
 }
+
+/*sara style*/
+.content{
+	min-height: 450px;
+}
+
+.vertical-line{
+
+	height: 490px;
+    width: 1px;
+   background-color: gray;
+   margin-top: 5px;
+    postion: absolute;
+    border-radius: 2px;
+}
+
+h4{
+margin-top: 45px;
+font-style:bold; 
+font-size: 16px;
+}
+
+h6{
+font-size: 13px;	
+}
+
+#icon{
+	margin-left: 150px;
+	color: #ff8067;
+}
+
+#icon2{
+    color: #ff8067;
+}
+
+p{
+	font-size: 10pt;
+}
+
+table{
+	border-width: 2px;
+	border-color: #E8E8E8;
+	border-collapse: separate;
+	border-spacing: 4px;
+	min-height: 1200px;
+}
+
+th{
+	width: 60px;
+	border-collapse: separate;
+}
+
+#paragrf{
+background-color: #E8E8E8;	
+}
+
+#data{
+color: white;
+background-color: #B0B0B0 ; 
+height: 40px;
+font-size: 13px;
+padding-top: 10px;
+}
+
+#mg{
+margin-top: 45px;
+width: 290px;
+height: 580px;
+}
+
+.mg2{
+margin-top: 45px;
+width:69px;
+}
+
+span .glyphicon .glyphicon-star-empty{
+	margin-left: 120px;
+	background-color:#ff8067; 
+}
+
+p{
+	padding-top: 20px;
+}
+
+select{
+	background-color: #E8E8E8  ;
+	width: 100px;
+	height: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+label{
+	font-size: 13px; 
+	margin-left: 14px;
+}
+
+.btn {
+	background-color:#ff8067;
+	margin-left: 60px;
+	width: 140px;
+	height: 35px;
+}
+
+h3{
+margin-left: 100px;
+}
+
+.horizontal-line{
+	width: 1000px;
+    height: 1px;
+    background-color: gray;
+    position: absolute;
+    margin-left: 25px;
+    border-radius: 2px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 60px;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    background-color: gray;
+    width: 1010px;
+} 
+
+#moredress img{
+	float:left;
+    display:inline;
+    width:180px;
+    height: 210px;
+    margin-left:60px
+}
+
+.desc p {
+    margin-left: 70px;
+    font-family: verdana; 
+}
+
+#moredress span{
+ display:inline;
+ color: #ff8067;
+}
