@@ -166,7 +166,8 @@ left:282px;
 	
     color:#ff8067;
 	font-size:25px;
-    right: 115px;
+	font-family: thin;
+	left: 555px;
 }
 .cart img
 {
@@ -512,9 +513,9 @@ h4 {
 
 	height: 490px;
     width: 1px;
-   background-color: gray;
-   margin-top: 5px;
-    postion: absolute;
+    background-color: gray;
+    margin-top: 5px;
+    position: absolute;
     border-radius: 2px;
 }
 
@@ -607,11 +608,6 @@ label{
 	width: 140px;
 	height: 35px;
 }
-
-/*h3{
-margin-left: 100px;
-}
-*/
 .horizontal-line{
 	width: 1000px;
     height: 1px;
@@ -630,7 +626,7 @@ hr {
     border-style: inset;
     border-width: 2px;
     background-color: gray;
-    width: 1010px;
+    width: 700px;
 } 
 
 #moredress img{
