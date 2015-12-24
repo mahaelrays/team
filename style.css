@@ -143,10 +143,11 @@ left:282px;
 }
 .subject{
 	position:absolute;
-	top:80px;
+	top:50px;
 	left:50px;
-	width:300px;
+	width:500px;
     color:	#ff8067;
+    text-align: left;
 }
 .price-offer{
 	position:absolute;
@@ -163,8 +164,9 @@ left:282px;
 
 .subject h4{
 	
-    color:	#ff8067;
+    color:#ff8067;
 	font-size:25px;
+    right: 115px;
 }
 .cart img
 {
