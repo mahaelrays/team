@@ -1,4 +1,4 @@
-
+/*sameh style*/
 #soka-gallery
 {
 	margin:0;
@@ -79,22 +79,16 @@
 
 }
 
- .carusal-slide .img-gallery
- {
-	
-	
-	 
-}
  .carusal-slide .img-gallery  .alter-image
 {
 text-align:justify;
 background-color:#ff8067;
 height:280px;
+padding: 20;
 
 }
  .carusal-slide .img-gallery  .alter-image  h3
 {
-	
 	margin:0;
 	color:white;
 	text-align:left;
@@ -149,10 +143,11 @@ left:282px;
 }
 .subject{
 	position:absolute;
-	top:80px;
+	top:50px;
 	left:50px;
-	width:300px;
+	width:500px;
     color:	#ff8067;
+    text-align: left;
 }
 .price-offer{
 	position:absolute;
@@ -169,8 +164,9 @@ left:282px;
 
 .subject h4{
 	
-    color:	#ff8067;
+    color:#ff8067;
 	font-size:25px;
+    right: 115px;
 }
 .cart img
 {
@@ -366,12 +362,12 @@ padding:0;
 .col2   .fa1
 {
 	color:#ff8067;
-font-size:25px;
+    font-size:25px;
 	height:15px;
 	background-color:#EAEAEA;
 	position:absolute;
 	left:-12px;
-	top:45px;
+	top:80px;
 	
 }
 .col2   .fa2
@@ -382,7 +378,7 @@ font-size:25px;
 	background-color:#EAEAEA;
 	position:absolute;
 	left:-12px;
-	bottom:110px;
+	bottom:77px;
 	
 	
 }
@@ -426,3 +422,247 @@ padding-left:150px;
 	padding-left:5px;
 }
 
+/*aya style*/
+.soka {
+    color:white;
+    text-align:right;
+    padding:25px;
+    font-family:Times New Roman (Headings CS);
+    font-size: 50px;
+    border-right: 1px solid white;
+    height:110px;
+    background-color:#ff8067;
+}
+
+.colornavul{
+	background-color:#ff8067;
+	color:white;
+	height: 120px;
+	padding-top: 37px;
+	margin:-1px;
+	font-size: 20px; 
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-family:Vodafone ExB; 
+}
+
+#p1{
+	text-align: right;
+	color: black;
+    margin: 13px 70px ;
+    left: 50px;
+}
+
+li span {
+	margin: 5px;
+}
+
+li span i{
+	color:#ff8067;
+	background-color:white;
+    border-radius:50px 50px;
+}
+
+#footer {
+    background-color:#ff8067;
+    color:white;
+    clear:both;
+    padding:40px; 
+    margin:-1px; 
+}
+
+hr{
+    border: 1px solid #ff8067;
+}
+
+.row {
+    margin: 25px;
+}
+
+h4 {
+    font-size: 17px;
+    font-family:Arial Black; 
+}
+.tcr{
+    color: red;
+    font-family:Arial Black; 
+
+}
+
+.fdiv{
+   text-align: left; 
+   left: 105px;
+}
+
+.fdiv1{
+   text-align: right; 
+   right: 92px;
+}
+
+/*sara style*/
+.content{
+	min-height: 450px;
+}
+
+.vertical-line{
+
+	height: 490px;
+    width: 1px;
+   background-color: gray;
+   margin-top: 5px;
+    postion: absolute;
+    border-radius: 2px;
+}
+
+h4{
+margin-top: 45px;
+font-style:bold; 
+font-size: 16px;
+}
+
+h6{
+font-size: 13px;	
+}
+
+#icon{
+	margin-left: 150px;
+	color: #ff8067;
+}
+
+#icon2{
+    color: #ff8067;
+}
+
+p{
+	font-size: 10pt;
+}
+
+table{
+	border-width: 2px;
+	border-color: #E8E8E8;
+	border-collapse: separate;
+	border-spacing: 4px;
+	min-height: 1200px;
+}
+
+th{
+	width: 60px;
+	border-collapse: separate;
+}
+
+#paragrf{
+background-color: #E8E8E8;	
+}
+
+#data{
+color: white;
+background-color: #B0B0B0 ; 
+height: 40px;
+font-size: 13px;
+padding-top: 10px;
+}
+
+#mg{
+margin-top: 45px;
+width: 290px;
+height: 580px;
+}
+
+.mg2{
+margin-top: 45px;
+width:69px;
+}
+
+span .glyphicon .glyphicon-star-empty{
+	margin-left: 120px;
+	background-color:#ff8067; 
+}
+
+p{
+	padding-top: 20px;
+}
+
+select{
+	background-color: #E8E8E8  ;
+	width: 100px;
+	height: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+label{
+	font-size: 13px; 
+	margin-left: 14px;
+}
+
+.btn {
+	background-color:#ff8067;
+	margin-left: 60px;
+	width: 140px;
+	height: 35px;
+}
+
+/*h3{
+margin-left: 100px;
+}
+*/
+.horizontal-line{
+	width: 1000px;
+    height: 1px;
+    background-color: gray;
+    position: absolute;
+    margin-left: 25px;
+    border-radius: 2px;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 60px;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+    background-color: gray;
+    width: 1010px;
+} 
+
+#moredress img{
+	float:left;
+    display:inline;
+    width:180px;
+    height: 210px;
+    margin-left:60px
+}
+
+.desc p {
+    margin-left: 70px;
+    font-family: verdana; 
+}
+
+#moredress span{
+ display:inline;
+ color: #ff8067;
+}
+
+hr .single {
+        height: 490px;
+        background-color: gray;
+        margin-top: 25px;
+        border-radius: 2px;
+        width: 15px;
+    }
+
+.breadcrumb {
+	background-color: black;
+	color: white;
+	margin: -1px;
+	width: 100%;
+	font-size: 15px;
+}
