@@ -1,0 +1,1 @@
+<?php echo "http://www.facebook.com".$_SERVER['REQUEST_URI']; ?>
